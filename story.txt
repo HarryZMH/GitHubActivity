@@ -1,1 +1,1 @@
-This is the first line of story.txt.: A long time ago, there was a boy who had a dream to be an artist. However, an unexpected accident made him blind.  
+This is the beginning of the story: A long time ago, there was a boy who had a dream to be an artist. However, an unexpected accident made him blind. -- written by Minghao Zhou
