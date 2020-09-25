@@ -1,1 +1,1 @@
-This is the first line of story.txt. For Front End Developer2 and Back End Developer2, please make contribution under this line. 
+This is the first line of story.txt.: A long time ago, there was a boy who had a dream to be an artist. However, an unexpected accident made him blind.  
